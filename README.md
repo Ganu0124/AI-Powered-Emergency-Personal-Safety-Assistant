@@ -2,6 +2,12 @@
 
 **Your Multimodal AI-Powered Emergency & Personal Safety Assistant**
 
+Developed for the **AI Gen Hackathon** by:
+* 👤 **Ganesh M**
+* 👤 **Rakshitha TC**
+* 👤 **Anand D**
+* 👤 **Madesh P**
+
 AI LifeAssist is a multimodal Generative AI application designed to provide instantaneous first-aid guidance, medical information simplification, location services, and hands-free voice assistance during stressful health emergencies and daily medical situations. 
 
 ![AI LifeAssist](https://img.shields.io/badge/AI-LifeAssist-ff4757?style=for-the-badge&logo=shield&logoColor=white)
