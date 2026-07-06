@@ -387,12 +387,6 @@ AI LifeAssist breaks language barriers during emergencies. Selecting a language 
 
 The application fully supports:
 * 🇬🇧 **English** (`en`)
-* 🇮🇳 **Hindi / हिन्दी** (`hi`)
-* 🇮🇳 **Tamil / தமிழ்** (`ta`)
-* 🇮🇳 **Telugu / తెలుగు** (`te`)
-* 🇮🇳 **Bengali / বাংলা** (`bn`)
-* 🇮🇳 **Kannada / ಕನ್ನಡ** (`kn`)
-* 🇮🇳 **Malayalam / Malayalam** (`ml`)
 
 ---
 
