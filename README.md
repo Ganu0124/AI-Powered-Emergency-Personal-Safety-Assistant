@@ -188,7 +188,8 @@ sequenceDiagram
 - **HTTP Client**: HTTPX (Asynchronous HTTP requests to the Google Places API)
 
 ---
-<img width="1917" height="880" alt="image" src="https://github.com/user-attachments/assets/a1928e11-2370-42fd-9b57-ab64de4745ef" />
+<img width="1850" height="850" alt="image" src="https://github.com/user-attachments/assets/7a4d10ef-4352-48b2-914b-615d23fdcd0d" />
+
 
 ## 📁 Project Structure
 
