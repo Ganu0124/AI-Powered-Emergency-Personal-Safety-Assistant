@@ -1,4 +1,3 @@
-
 # 🛡️ AI LifeAssist
 
 **Your Multimodal AI-Powered Emergency & Personal Safety Assistant**
