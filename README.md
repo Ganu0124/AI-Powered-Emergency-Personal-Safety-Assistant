@@ -8,7 +8,9 @@ Developed for the **AI Gen Hackathon** by:
 * 👤 **Anand D**
 * 👤 **Madesh P**
 
-AI LifeAssist is a multimodal Generative AI application engineered for real-time medical support. Built on a high-performance FastAPI backend and powered by Gemini 2.0 Flash, it delivers instantaneous first-aid guidance, automated medical document analysis, and location-aware emergency routing—all accessible through a seamless, hands-free voice interface.
+AI LifeAssist is a mission-critical, multimodal Generative AI platform engineered to provide instantaneous, real-time medical support. Built on a high-performance FastAPI backend, the application bridges the gap between complex health data and immediate action. 
+
+By unifying multimodal vision analysis , OCR-powered prescription decoding , and location-aware emergency routing , AI LifeAssist transforms raw visual and voice inputs into actionable first-aid guidance. Designed for reliability and speed, the platform integrates Google GenAI with real-time Geospatial APIs  to deliver life-saving insights within a secure, hands-free, and multilingual ecosystem. 
 
 ![AI LifeAssist](https://img.shields.io/badge/AI-LifeAssist-ff4757?style=for-the-badge&logo=shield&logoColor=white)
 ![React](https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=black)
