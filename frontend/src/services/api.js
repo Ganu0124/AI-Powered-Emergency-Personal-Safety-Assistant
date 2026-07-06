@@ -3,7 +3,9 @@
  */
 import axios from 'axios';
 
-const API_BASE = '/api';
+const API_BASE =
+  import.meta.env.VITE_API_BASE ||
+  'https://ai-powered-emergency-personal-safety-hzj5.onrender.com';
 
 const api = axios.create({
   baseURL: API_BASE,
