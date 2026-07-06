@@ -42,6 +42,9 @@ AI LifeAssist is a multimodal Generative AI application designed to provide inst
 | 🌐 **Multilingual Hub** | Access the entire dashboard, AI responses, and spoken speech in 7 local Indian languages. | Multilingual Prompts (`gemini-2.0-flash`) |
 
 ---
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/84215909-2837-49ca-a426-2f36e0d74afb" />
+<img width="1917" height="890" alt="image" src="https://github.com/user-attachments/assets/ea8bc59a-adfc-4c76-b7b2-9e70447cd396" />
+
 
 ## 🏗️ System Architecture & Workflow Diagrams
 
@@ -175,6 +178,7 @@ sequenceDiagram
 - **Routing**: [React Router DOM v6](https://reactrouter.com/)
 - **Voice System**: Web Speech API (`SpeechRecognition` & `SpeechSynthesis`) for browser-native translation and voice synthesis.
 - **Client**: Axios for API interaction.
+<img width="1917" height="896" alt="image" src="https://github.com/user-attachments/assets/7fadbe17-2b7e-4788-8026-269bf805fedd" />
 
 ### Backend
 - **Framework**: [FastAPI 0.115](https://fastapi.tiangolo.com/) (Asynchronous, high-performance web framework)
@@ -184,6 +188,7 @@ sequenceDiagram
 - **HTTP Client**: HTTPX (Asynchronous HTTP requests to the Google Places API)
 
 ---
+<img width="1917" height="880" alt="image" src="https://github.com/user-attachments/assets/a1928e11-2370-42fd-9b57-ab64de4745ef" />
 
 ## 📁 Project Structure
 
