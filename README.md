@@ -3,14 +3,15 @@
 **Your Multimodal AI-Powered Emergency & Personal Safety Assistant**
 
 Developed for the **AI Gen Hackathon** by:
+
 * 👤 **Ganesh M**
-* gganu8615@gmail.com
+ gganu8615@gmail.com
 * 👤 **Rakshitha TC**
-* rakshithacrakshu@gmail.com
+ rakshithacrakshu@gmail.com
 * 👤 **Anand D**
-* anandrl120@gmail.com
+ anandrl120@gmail.com
 * 👤 **Madesh P**
-* pmadesha69@gmail.com
+ pmadesha69@gmail.com
 
 AI LifeAssist is a mission-critical, multimodal Generative AI platform engineered to provide instantaneous, real-time medical support. Built on a high-performance FastAPI backend, the application bridges the gap between complex health data and immediate action. 
 
