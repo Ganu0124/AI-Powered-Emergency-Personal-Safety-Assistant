@@ -1,4 +1,5 @@
 
+
 """AI LifeAssist — FastAPI Application.
 
 A multimodal Generative AI emergency and personal safety assistant.
