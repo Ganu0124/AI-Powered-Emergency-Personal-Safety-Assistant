@@ -1,7 +1,7 @@
 # 🛡️ AI LifeAssist
 
 
-
+*
 
 
 Developed for the **AI Gen Hackathon** by:
