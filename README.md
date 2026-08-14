@@ -1,8 +1,6 @@
 # 🛡️ AI LifeAssist
 
 
-**Your Multimodal AI-Powered Emergency & Personal Safety Assistant**
-
 
 Developed for the **AI Gen Hackathon** by:
 
