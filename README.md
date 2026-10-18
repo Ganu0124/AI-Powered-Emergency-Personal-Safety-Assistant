@@ -1,4 +1,4 @@
-gansh ,mmeegvs
+gansh 
 # 🛡️ AI LifeAssist
 
 
