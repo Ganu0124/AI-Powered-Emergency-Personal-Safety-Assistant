@@ -1,4 +1,3 @@
-ga
 # 🛡️ AI LifeAssist
 
 
